@@ -1,0 +1,12 @@
+# passtobin.py v 0.1
+# Uploads source file to pastebin.com using pastebin API.
+# You may use custom filename, post as guest / user
+# with private / public paste option and auto syntax
+# highlight for several filetypes, etc.
+#
+# coded by: ditatompel <ditatompel@gmail.com>
+# Thanks to : 5ynL0rd who always inspire me.
+# Greetings for all members of devilzc0de.org, all Indonesian c0ders,
+# and all GNU Generation ;-)
+# I glue you all my regards.
+
